@@ -1,12 +1,15 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+void Cos_Functions(){
+    cout << "Input X = "; cin >> X;
+    else cout << cos(X);
+}
 void multiply(float a, float b){
     cout << "Input 2 number" << endl;
     cin >> a >> b;
     cout << a * b;
 }
-
 int main(){
     // Hello this is Dang
     return 0;
