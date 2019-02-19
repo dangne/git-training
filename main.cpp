@@ -3,13 +3,13 @@ using namespace std;
 
 void Mu_n(){
     int a, n;
-    cout << "Input a, n"; cin >> a > n;
+    cout << "Input a, n"; cin >> a >> n;
     cout << pow(a,n) << endl;
 }
-void Cos_Functions(){
+void Cos_Function(){
 	float X;
     cout << "Input X = "; cin >> X;
-    else cout << cos(X);
+    cout << cos(X);
 }
 void multiply(){
 	float a, b;
@@ -47,15 +47,15 @@ int main(){
     cin >> cmd;
 
     switch (cmd){
-        case 1:sum();
-        case 2:Subtract();
-        case 3:multiply();
-        case 4:;
-        case 5:Mu_n();
-        case 6:;
-        case 7:Cos_Function();
-        case 8:;
-        case 9:;
+        case 1: sum(); break;
+        case 2: Subtract(); break;
+        case 3: multiply(); break;
+        case 4: break;
+        case 5: Mu_n(); break;
+        case 6: break;
+        case 7: Cos_Function(); break;
+        case 8: break;
+        case 9: break;
         default: cout << "Invalid input" << endl;
     }
     return 0;
