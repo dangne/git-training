@@ -18,14 +18,13 @@ void Subtract(){
 	cin >> a >> b;
 	cout << endl << "Subtract 2 number, ans= " << a - b << endl;
 }
-int main(){
-    // Hello this is Dang
-    return 0;
-}
-
 void sum(){
     int a,b;
     cout<<"nhap a and b"<<endl;
     cin>>a>>b;
     cout<<"sum is "<<a+b;
+}
+int main(){
+    // Hello this is Dang
+    return 0;
 }
