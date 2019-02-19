@@ -1,7 +1,7 @@
 # Git training
 
 ### Background information
-1. Date:19/02/2019
+1. Date: 19/02/2019
 1. Venue: 204A4 - HCMUT
 1. This training is about Command line, Git, Github basics
 
