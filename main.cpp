@@ -6,10 +6,9 @@ int main(){
     return 0;
 }
 
-void()
-{
-int a,b;
-cout<<"nhap a and b"<<endl;
-cin>>a>>b;
-cout<<"sum is "<<a+b;
+void sum(){
+    int a,b;
+    cout<<"nhap a and b"<<endl;
+    cin>>a>>b;
+    cout<<"sum is "<<a+b;
 }
