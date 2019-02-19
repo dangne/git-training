@@ -3,7 +3,6 @@ using namespace std;
 
 void Mu_n(int a, int n)
 {
-  int a, n;
   cout << a^n << endl;
 }
 int main(){
