@@ -1,9 +1,10 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-void Mu_n(int a, int n)
-{
-  cout << pow(a,n) << endl;
+void Mu_n(){
+    int a, n;
+    cout << "Input a, n"; cin >> a > n;
+    cout << pow(a,n) << endl;
 }
 int main(){
 
