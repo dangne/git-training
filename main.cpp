@@ -1,6 +1,11 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+void Mu_n(){
+    int a, n;
+    cout << "Input a, n"; cin >> a > n;
+    cout << pow(a,n) << endl;
+}
 void Cos_Functions(){
 	float X;
     cout << "Input X = "; cin >> X;
