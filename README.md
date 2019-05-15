@@ -7,7 +7,7 @@
 
 ### Training Output
 1. [Slides](https://docs.google.com/presentation/d/1ty7IH7IoLaKAfLkPaIU1yQXCcZ6UG-PGIatO18-uACY/edit?usp=sharing)
-1. [Feedback form](https://goo.gl/forms/qzVaofYfusVvZexp1) 
+1. [Feedback Report](https://drive.google.com/file/d/1hwibYr2-mti-TCW-ETssuAFeBYR0Nf8-/view?usp=sharing) 
 1. Summary:
     * [Command line cheat sheet](https://bit.ly/2isLDn0)
     * [Git cheat sheet](https://bit.ly/1ZThI5I)
