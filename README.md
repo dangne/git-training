@@ -1,3 +1,3 @@
-# Git training 2.0 ![Status](https://img.shields.io/badge/status-building-brightgreen.svg)![Status](https://img.shields.io/badge/dummies-0-brightgreen.svg)
+# Git training 2.0 ![Status](https://img.shields.io/badge/status-building-brightgreen.svg) ![Status](https://img.shields.io/badge/dummies-0-brightgreen.svg)
 
 To be updated...
